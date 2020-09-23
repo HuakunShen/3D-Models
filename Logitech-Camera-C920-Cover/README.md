@@ -1,10 +1,14 @@
 # Logitech Camera C920/C922 Cover
 
-<img src="README.assets/image-20200922015204915.png" alt="image-20200922015204915" width="50%" />
+## Cover
 
-<img src="README.assets/image-20200922015352149.png" alt="image-20200922015352149" width="50%" />
+<img src="README.assets/image-20200923020212100.png" alt="image-20200923020212100" width="33%" />
 
-<img src="README.assets/image-20200922015430278.png" alt="image-20200922015352149" width="50%" />
+![image-20200923020034337](README.assets/image-20200923020034337.png)
+
+
+
+![image-20200923015938570](README.assets/image-20200923015938570.png)
 
 
 
