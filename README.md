@@ -2,4 +2,4 @@
 
 ## My Designs
 
-- [Logitech Webcam C920/C922 cover](./Logitech-Camera-C920-Cover)
+- [Logitech Webcam C920/C922 cover](./my-designs/Logitech-Camera-C920-Cover)
